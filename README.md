@@ -2,6 +2,7 @@
 
 | 时间 | 主题 
 | ------------- | ----------- 
+| 20171112 | [Android-Android-欢迎页联动动画设计](https://github.com/jeffrey1995/MyBlog/issues/24) 
 | 20171104 | [Android-自定义View之双指连续拖动弹性布局](https://github.com/jeffrey1995/MyBlog/issues/23) 
 | 20161128| [Android-异步操作更新UI界面的几种方法](https://github.com/jeffrey1995/MyBlog/issues/22) 
 | 20161107 | [Android-fastboot简介与基本用法](https://github.com/jeffrey1995/MyBlog/issues/21) 
