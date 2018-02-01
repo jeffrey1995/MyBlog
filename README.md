@@ -2,6 +2,7 @@
 
 | 时间 | 主题 
 | ------------- | -----------
+| 20180130 | [Gradle-命令笔记](https://github.com/jeffrey1995/MyBlog/issues/29)
 | 20180124 | [Android-获取View宽高的时机](https://github.com/jeffrey1995/MyBlog/issues/28)
 | 20171216 | [React Native-原生模块开发](https://github.com/jeffrey1995/MyBlog/issues/27)
 | 20171210 | [React Native-布局使用总结](https://github.com/jeffrey1995/MyBlog/issues/26) 
